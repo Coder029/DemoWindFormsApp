@@ -16,5 +16,12 @@ namespace DemoWindFormsApp
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //kajsdhalskjdlaskjdlaksjdasd
+            //ksjafhdkasjdhkajshdkajshd
+            //lkajshdkajsdhkajshdkjashdkjas
+        }
     }
 }
